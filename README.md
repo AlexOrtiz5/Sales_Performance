@@ -13,8 +13,12 @@
 
 # Technologies 
   List with used technologies, ex:
-  - Python
-  - Pandas
+  - Python: The primary programming language used for data cleaning, manipulation, and analysis.
+  - Pandas: A powerful Python library for data manipulation and analysis, providing data structures like DataFrames for efficient handling of tabular data.
+  - NumPy: A Python library that adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Useful for numerical computations within Pandas.   
+  - Matplotlib: A Python plotting library used for creating static, interactive, and animated visualizations in Python. Useful for initial data exploration and creating charts before moving to Excel.
+  - Seaborn: A Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Useful for more advanced visualizations in Python.   
+  - Excel: Used for creating summary tables (PivotTables), generating interactive charts, and building the final interactive dashboard.
 
 # Project Description
   
