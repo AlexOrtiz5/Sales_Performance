@@ -7,9 +7,18 @@
 
 # Methods
   List with methods, ex:
-  - Filtering
-  - Grouping
-  - Visualization
+  - Data Cleaning: Techniques used to handle missing values (imputation or removal), correct inconsistencies, standardize formats, and remove duplicates in the dataset.
+  - Data Transformation: Converting data types (e.g., date formats), creating new variables (e.g., sales growth percentage), and reshaping data for analysis.
+  - Filtering: Selecting specific subsets of data based on criteria (e.g., sales in a particular region, transactions within a date range).
+  - Sorting: Arranging data in ascending or descending order based on one or more columns.
+  - Grouping: Aggregating data based on categories (e.g., sales by product category, sales by month).
+  - Aggregation: Calculating summary statistics (e.g., sum, average, count, median) for groups of data.
+  - Pivot Tables: Creating summary tables to analyze data from different perspectives and identify trends.
+  - Data Visualization: Creating charts and graphs (line charts, bar charts, pie charts, scatter plots) to visually represent data and insights.
+  - Time Series Analysis: Analyzing data collected over time to identify trends, seasonality, and patterns.
+  - Correlation Analysis: Measuring the strength and direction of the linear relationship between two or more variables.
+  - Descriptive Statistics: Calculating summary measures (mean, median, mode, standard deviation) to describe the distribution of data.
+  - Dashboard Creation: Designing and building an interactive dashboard to present key findings and allow users to explore the data.
 
 # Technologies 
   List with used technologies, ex:
